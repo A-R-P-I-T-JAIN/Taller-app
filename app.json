@@ -37,6 +37,11 @@
         }
       ],
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2fcb665b-1e4c-4277-9c12-c9579bf64f15"
+      }
+    }
   }
 }
